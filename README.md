@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Meu nome é Lucas, sou estudande de Ciência da Computação na Universidade Federal do Maranhão - UFMA, sou apaixonado por tecnologia e desenvolvimento.
+Meu nome é Lucas, sou estudande de Ciência da Computação na Universidade Federal do Maranhão - UFMA, gosto muito de tecnologia e desenvolvimento.
 
 ---
 
